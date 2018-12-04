@@ -1,0 +1,19 @@
+10/28/2018 Goals
+
+Implement game mechanics
+    -blow up if uncover bomb
+    -can't move past unremoved spot
+    -can't reveal a flag
+
+Ideas:
+-Specific face/sound clips for little Man
+-"Test Stick" for tile 'freebie'
+    --Permanent Flag
+-Removable Flags - No square checking if flagged
+
+Goals For Completion
+-Implement Flag Placing/Removing
+  --No revealing under flags
+-End Game explosion on mine reveal
+-End Game Win on all non-mine tiles revealed
+-"Test Stick" Twist
